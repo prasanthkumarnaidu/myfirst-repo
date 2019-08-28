@@ -1,2 +1,2 @@
 all logins 
-fb login
+fb logingit
